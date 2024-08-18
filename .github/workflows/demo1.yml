@@ -1,0 +1,12 @@
+name: Hello World
+'on': null
+push: null
+branch:
+   - main
+job: null
+my-job: null
+runs-on: ubuntu-latest
+steps:
+   -
+      name: my-steps
+run: echo "Hello World Sandeep"
